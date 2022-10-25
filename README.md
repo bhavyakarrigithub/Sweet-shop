@@ -1,10 +1,10 @@
 # Sweet-shop
 
 I have created the static webpage for a sweet shop . 
-In this website anyone can check the price and photos of the sweet availaable online, and also buy them. 
+In this website anyone can check the price and photos of the sweets availaable online, and also buy them. 
 This project is made using Html, css , javascript.
 Azure services used are AZURE STORAGE ACCOUNTS, AZURE STATIC WEB APP.
-I used azue static web app to host my website and storage aacccounts for storing the source code.
+I used azure static web app to host my website and storage accounts for storing the source code.
 
 
 Project link ( demo link) :https://lively-mud-096494c10.2.azurestaticapps.net/
