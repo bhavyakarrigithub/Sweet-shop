@@ -7,7 +7,7 @@ Azure services used are AZURE STORAGE ACCOUNTS, AZURE STATIC WEB APP.
 I used azure static web app to host my website and storage accounts for storing the source code.
 
 
-Project link ( demo link) :https://lively-mud-096494c10.2.azurestaticapps.net/
+Project link ( demo link) :
 
 some of the image taken while doing the poject( steps followed )
 
