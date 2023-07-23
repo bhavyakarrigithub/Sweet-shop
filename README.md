@@ -7,7 +7,7 @@ Azure services used are AZURE STORAGE ACCOUNTS, AZURE STATIC WEB APP.
 I used azure static web app to host my website and storage accounts for storing the source code.
 
 
-Project link ( demo link) :
+Project link ( demo link) :https://bhavigit.github.io/Sweet-shop/
 
 some of the image taken while doing the poject( steps followed )
 
